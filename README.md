@@ -5,4 +5,11 @@ On any given night, Angelenos can choose from an impressive list of art exhibits
 ### Technologies:
 AngularJS, Express, Node.js, PostgreSQL, Bootstrap
 
+### Trello:
+https://trello.com/b/Ji7m1t7o/la-daily
+
+![Wireframe](http://aw1nlnbob3rvynvja2v0lmnvbq00.g00.photobucket.com/g00/1_TU9SRVBIRVVTMiRodHRwOi8vaW1nLnBob3RvYnVja2V0LmNvbS9hbGJ1bXMvdjYyMC9xdWVlbm9mY29udmVuaWVuY2UvSU1HXzQ0NzBfenBzdDJrdnFreHYuanBn_$/$/$/$/$ "Logo Title Text 1")
+
+![Model](http://aw1nlnbob3rvynvja2v0lmnvbq00.g00.photobucket.com/g00/1_TU9SRVBIRVVTMiRodHRwOi8vaW1nLnBob3RvYnVja2V0LmNvbS9hbGJ1bXMvdjYyMC9xdWVlbm9mY29udmVuaWVuY2UvSU1HXzQ0NzBfenBzdDJrdnFreHYuanBn_$/$/$/$/$ "Logo Title Text 1")
+
 
